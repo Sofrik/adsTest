@@ -7,7 +7,7 @@
   </vmap:AdBreak>
   <vmap:AdBreak timeOffset="00:00:30.000" breakId="midroll-1" breakType="linear">
     <vmap:AdSource id="midroll-1" allowMultipleAds="true" followRedirects="true">
-      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&rnd=256364275]]></vmap:AdTagURI>
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/Sofrik/adsTest/master/vast.xml]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
   <vmap:AdBreak timeOffset="01:20:00.000" breakId="midroll-2" breakType="linear">
