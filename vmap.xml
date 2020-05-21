@@ -2,7 +2,7 @@
 <vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
   <vmap:AdBreak timeOffset="start" breakId="preroll" breakType="linear">
     <vmap:AdSource id="preroll" allowMultipleAds="true" followRedirects="true">
-      <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/Sofrik/adsTest/master/vast.xml]]></vmap:AdTagURI>
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://raasdw.githubusercontent.com/Sofrik/adsTest/master/vast.xml]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
   <vmap:AdBreak timeOffset="00:00:30.000" breakId="midroll-1" breakType="linear">
