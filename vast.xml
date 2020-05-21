@@ -38,7 +38,7 @@
 			</TrackingEvents>
 	            
 			<MediaFiles>
-			<MediaFile delivery="progressive" bitrate="256" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://masterh7.adriver.ru/mf/0006565/0006565908/0/WHISKAS.mp4]]></MediaFile>
+			<MediaFile delivery="progressive" bitrate="256" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://masterh7.adriver.ru/mf/0006565/0006565908/0/WHISKAS.mp44]]></MediaFile>
 			</MediaFiles>
 		   </Linear>
 		   
