@@ -38,7 +38,7 @@
 			</TrackingEvents>
 	            
 			<MediaFiles>
-			<MediaFile delivery="progressive" bitrate="256" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://masterh7.adriver.ru/mf/0006565/0006565908/0/WHISKAS.mp44]]></MediaFile>
+			<MediaFile delivery="progressive" bitrate="256" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://servers3.adriver.ru/mf/0006765/0006765922/0/AutoPlusVibor.mp4]]></MediaFile>
 			</MediaFiles>
 		   </Linear>
 		   
@@ -136,7 +136,7 @@
 	              <ClickThrough><![CDATA[https://ad.adriver.ru/cgi-bin/click.cgi?xpid=DEpfXo6N6NTF4Bx8yPB8jG22VKBR1to7JJQ6y5NLUOmtKe0qIdfbhWPLQ0K-tbhqkFH3Dvlm8F02-XJxgzx8n5Hp_pYKgm0Q&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&custom=]]></ClickThrough>
                     </VideoClicks>
 			<MediaFiles>
-			<MediaFile delivery="progressive" bitrate="2200" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://edp1.adriver.ru/mf/0006566/0006566724/0/S7.mp4]]></MediaFile>
+			<MediaFile delivery="progressive" bitrate="2200" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://masterh7.adriver.ru/mf/0006765/0006765928/0/AutoPlusAkcia.mp4]]></MediaFile>
 			</MediaFiles>
 		   </Linear>
 		   
