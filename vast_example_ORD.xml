@@ -5,9 +5,7 @@ This XML file does not appear to have any style information associated with it. 
 <AdSystem>
 <![CDATA[ Buzzoola VAST 3.0 ]]>
 </AdSystem>
-<AdTitle/>
-<![CDATA[ Реклама ]]>
-</AdTitle>
+<AdTitle>Реклама</AdTitle>
 <Impression id="0">
 <![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/ctor/ ]]>
 </Impression>
